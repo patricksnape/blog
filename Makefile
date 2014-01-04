@@ -57,7 +57,8 @@ html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+	[ ! -d $(OUTPUTDIR) ] || cd $(OUTPUTDIR) && find . -depth -mindepth 1 -name ".git*" -prune -o -iname README.md -prune -o -delete
+
 
 article:
 ifdef NAME
