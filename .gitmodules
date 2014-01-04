@@ -1,0 +1,12 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:patricksnape/patricksnape.github.com.git
+[submodule "themes/pelican-octopress-theme"]
+	path = themes/pelican-octopress-theme
+	url = git@github.com:duilio/pelican-octopress-theme.git
+[submodule "themes/pelican-responsive"]
+	path = themes/pelican-responsive
+	url = git@github.com:patricksnape/pelican-responsive.git
+[submodule "plugins"]
+	path = plugins
+	url = git@github.com:getpelican/pelican-plugins.git
