@@ -11,7 +11,14 @@ AUTHOR = u'Patrick Snape'
 SITENAME = u'patricksnape.github.io'
 SITEURL = 'http://patricksnape.github.io'
 MINI_BIO = u"PhD Candidate at Imperial College London"
-BIO = u'<strong>Patrick Snape</strong> has some sort of BIO text'
+BIO = u"""I am currently working towards
+my PhD at Imperial College London. I'm a member of the
+<strong>I</strong>ntelligent <Strong>B</strong>ehaviour
+<strong>U</strong>nderstanding <strong>G</strong>roup
+(IBUG), focusing on dense reconstruction of facial shape
+from images. In particular, I'm interested in investigating
+the low-rank relationship between images and shape."""
+        
 
 TIMEZONE = 'Europe/London'
 
