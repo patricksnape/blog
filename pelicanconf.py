@@ -49,5 +49,7 @@ PLUGIN_PATH = 'plugins'
 PLUGINS = ['liquid_tags.notebook', 'liquid_tags.include_code']
 LIQUID_TAGS_IPYTHON_STYLES = open('_nb_header.html').read().decode('utf-8')
 
+DISQUS_SITENAME = u'patricksnape'
+
 PATH = '{}/content'.format(base_path)
 STATIC_PATHS = ['images', 'code', 'notebooks', 'theme/img/avatar.jpg']
