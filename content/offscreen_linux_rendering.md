@@ -4,8 +4,9 @@ Tagline: Compiling llvmpipe on Ubuntu 13.04
 Slug: offscreen_rendering
 Category: Blog
 Tags: offscreen, llvmpipe, vtk, linux
+Email: patricksnape@gmail.com
 
-One of the techniques that I've been investigating recently, called [Morphable Models](http://www.cs.cmu.edu/~efros/courses/AP06/Papers/Blanz-siggraph-99.pdf), involves optimising the position and appearnce of a 3D model in relation to a single image. In particular, the model must be rasterized in to the scene to allow for optimising over the accuracy of the fitting. This rasterisation step is reasonably easy, but something that I wanted to be able to run on a headless Linux (Ubuntu) cluster. Unfortunately, this machine does not contain a graphics card. Therefore, I thought it would be good to layout the differences between different types of 'headless' rendering, and what exactly they mean.
+One of the techniques that I've been investigating recently, called [Morphable Models](http://www.cs.cmu.edu/~efros/courses/AP06/Papers/Blanz-siggraph-99.pdf), involves optimising the position and appearance of a 3D model in relation to a single image. In particular, the model must be rasterized in to the scene to allow for optimising over the accuracy of the fitting. This rasterisation step is reasonably easy, but something that I wanted to be able to run on a headless Linux (Ubuntu) cluster. Unfortunately, this machine does not contain a graphics card. Therefore, I thought it would be good to layout the differences between different types of 'headless' rendering, and what exactly they mean.
 
 The term headless rendering (or offscreen rendering), seems to imply a number of differing rendering choices. ‘Headless rendering’ might involve rendering a scene:
 

@@ -4,6 +4,7 @@ Tagline: For a more beautiful bash prompt
 Slug: git_ps1_virtualenvwrapper_friendly
 Category: Blog
 Tags: git, python, virtualenv
+Email: patricksnape@gmail.com
 
 I had to reinstall my ubuntu installation today after I completely broke
 it upgrading from 13.04 to 14.04. This meant that one of my first tasks
