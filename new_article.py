@@ -13,6 +13,7 @@ Tagline: Some snazzy tagline
 Slug: the_slug
 Category: Blog
 Tags: tag1, tag2
+Email: patricksnape@gmail.com
 
 Add the ``Status: draft`` metadata above to avoid publishing immediately!
 	""".format(datetime.date.today())
