@@ -4,6 +4,7 @@ Tagline: For those of us cursed with Matlab
 Slug: matlab_unity_launcher
 Category: Blog
 Tags: matlab, unity, ubuntu
+Email: patricksnape@gmail.com
 
 I was having some trouble getting Matlab to play nicely with the Unity launcher
 in Ubuntu. It seems as though Matlab requires you to pass the ``-desktop`` flag
