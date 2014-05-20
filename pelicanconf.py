@@ -30,9 +30,7 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
-
 
 PLUGIN_PATH = u'plugins'
 PLUGINS = ['gravatar']
@@ -41,7 +39,7 @@ DISQUS_SITENAME = u'patricksnape'
 
 PATH = 'content'
 PROFILE_IMAGE_URL = u'theme/img/avatar.jpg'
-STATIC_PATHS = [u'images']
+STATIC_PATHS = [u'publications']
 
 ARTICLE_URL = u'{date:%Y}/{slug}/'
 ARTICLE_SAVE_AS = u'{date:%Y}/{slug}/index.html'
