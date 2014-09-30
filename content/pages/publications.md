@@ -15,6 +15,12 @@ and data ingestion.
 
 ## Conference Papers
 **Kernel-PCA Analysis of Surface Normals for Shape from Shading**  
-*IEEE Int’l Conf. on Computer Vision & Pattern Recognition (CVPR) 2014*  
+*Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on*  
 [[pdf](http://ibug.doc.ic.ac.uk/media/uploads/documents/kpca_shape_from_shading.pdf)]
 [[bibtex]({filename}/publications/cvpr2014.bib)]
+
+**Menpo: A Comprehensive Platform for Parametric Image Alignment and Visual Deformable Models**  
+*In Proceedings of the international conference on Multimedia, ACM, 2014*  
+[[pdf](http://www.menpo.io/pages/paper/Menpo_ACM_MM_2014.pdf)]
+[[bibtex](http://www.menpo.io/pages/paper/menpo.bib)]
+

@@ -32,12 +32,12 @@ DEFAULT_PAGINATION = 10
 
 RELATIVE_URLS = True
 
-PLUGIN_PATH = u'plugins'
-PLUGINS = ['gravatar']
+PLUGIN_PATHS = [u'plugins']
+PLUGINS = [u'gravatar']
 
 DISQUS_SITENAME = u'patricksnape'
 
-PATH = 'content'
+PATH = u'content'
 PROFILE_IMAGE_URL = u'theme/img/avatar.jpg'
 STATIC_PATHS = [u'publications']
 
