@@ -9,7 +9,7 @@ the image.
 
 I have also been working on parametric image alignment and visual deformable
 models. If you are interested in this, I suggest you check out a project 
-from my team called [Menpo](http://menpo.io). Menpo is a Python framework
+from my team called [Menpo](http://menpo.org). Menpo is a Python framework
 for building fitting deformable models, focusing on easy visualisation
 and data ingestion.
 
@@ -21,6 +21,6 @@ and data ingestion.
 
 **Menpo: A Comprehensive Platform for Parametric Image Alignment and Visual Deformable Models**  
 *In Proceedings of the international conference on Multimedia, ACM, 2014*  
-[[pdf](http://www.menpo.io/pages/paper/Menpo_ACM_MM_2014.pdf)]
-[[bibtex](http://www.menpo.io/pages/paper/menpo.bib)]
+[[pdf](http://www.menpo.org/pages/paper/Menpo_ACM_MM_2014.pdf)]
+[[bibtex](http://www.menpo.org/pages/paper/menpo.bib)]
 
