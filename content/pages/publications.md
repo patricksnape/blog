@@ -14,6 +14,10 @@ for building fitting deformable models, focusing on easy visualisation
 and data ingestion.
 
 ## Conference Papers
+**Automatic Construction Of Robust Spherical Harmonic Subspaces**  
+*Computer Vision and Pattern Recognition (CVPR), 2015 IEEE Conference on*  
+[To Appear]
+
 **Kernel-PCA Analysis of Surface Normals for Shape from Shading**  
 *Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on*  
 [[pdf](http://ibug.doc.ic.ac.uk/media/uploads/documents/kpca_shape_from_shading.pdf)]
