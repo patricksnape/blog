@@ -19,12 +19,15 @@ and data ingestion.
 *Computer Vision and Pattern Recognition (CVPR), 2015 IEEE Conference on*  
 [[pdf](http://ibug.doc.ic.ac.uk/media/uploads/documents/robust_spherical_harmonics.pdf)]
 [[bibtex]({filename}/publications/cvpr2015.bib)]
+[[extended abstract]({filename}/publications/cvpr2015_extended_abstract.pdf)]
 
 **Kernel-PCA Analysis of Surface Normals for Shape from Shading**  
 **Patrick Snape**, Stefanos Zafeiriou  
 *Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on*  
 [[pdf](http://ibug.doc.ic.ac.uk/media/uploads/documents/kpca_shape_from_shading.pdf)]
 [[bibtex]({filename}/publications/cvpr2014.bib)]
+[[poster]({filename}/publications/cvpr2014_poster.pdf)]
+[[spotlight video](https://www.youtube.com/watch?v=wbEt_wsXf0Y)]
 
 **Menpo: A Comprehensive Platform for Parametric Image Alignment and Visual Deformable Models**  
 Joan Alabort-i-Medina\*, Epameinondas Antonakos\*, James Booth\*, **Patrick Snape**\*, Stefanos Zafeiriou  
