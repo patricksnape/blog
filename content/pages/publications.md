@@ -14,6 +14,12 @@ for building fitting deformable models, focusing on easy visualisation
 and data ingestion.
 
 ## Conference Papers
+**Face Flow**  
+**Patrick Snape**, Tassos Roussos, Yannis Panagakis, Stefanos Zafeiriou  
+*International Conference on Computer Vision (ICCV), 2015 IEEE Conference on*  
+[pdf]
+[[bibtex]({filename}/publications/iccv2015.bib)]
+
 **Automatic Construction Of Robust Spherical Harmonic Subspaces**  
 **Patrick Snape**, Yannis Panagakis, Stefanos Zafeiriou  
 *Computer Vision and Pattern Recognition (CVPR), 2015 IEEE Conference on*  
@@ -33,6 +39,7 @@ and data ingestion.
 Joan Alabort-i-Medina\*, Epameinondas Antonakos\*, James Booth\*, **Patrick Snape**\*, Stefanos Zafeiriou  
 *In Proceedings of the international conference on Multimedia, ACM, 2014*  
 [[pdf](http://www.menpo.org/pages/paper/Menpo_ACM_MM_2014.pdf)]
-[[bibtex](http://www.menpo.org/pages/paper/menpo.bib)]  
+[[bibtex](http://www.menpo.org/pages/paper/menpo.bib)]
+[[project page](http://www.menpo.org/)]  
 \* Alphabetical order due to equal contribution
 
