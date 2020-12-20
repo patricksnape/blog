@@ -5,3 +5,4 @@
 *~
 content/notebooks/.ipynb_checkpoints
 cache/*
+.idea/*
