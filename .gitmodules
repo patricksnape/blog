@@ -12,4 +12,4 @@
 	url = git@github.com:patricksnape/patricksnape.github.io.git
 [submodule "themes/pure"]
 	path = themes/pure
-	url = git://github.com/patricksnape/pure.git
+	url = git@github.com:patricksnape/pure.git
