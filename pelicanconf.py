@@ -1,45 +1,42 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
+THEME = "themes/pure"
 
-THEME = u'themes/pure'
+AUTHOR = "Patrick Snape"
+SITENAME = "patricksnape"
+SITEURL = "http://patricksnape.github.io"
+TAGLINE = "Computer Vision and Machine Learning Engineer"
 
-AUTHOR = u'Patrick Snape'
-SITENAME = u'patricksnape'
-SITEURL = u'http://patricksnape.github.io'
-TAGLINE = u'PhD Candidate at Imperial College London'
-        
+TIMEZONE = "Europe/London"
 
-TIMEZONE = u'Europe/London'
-
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = "en"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
+GOOGLE_ANALYTICS = True
 DISPLAY_PAGES_ON_MENU = True
 
 # Social widget
 SOCIAL = (
-    (u'github-square', u'https://github.com/patricksnape'),
-    (u'google-plus-square', u'https://plus.google.com/+PatrickSnape'),
-    (u'twitter-square', u'https://twitter.com/berecursive'),
+    ("fa fa-github-square fa-3x", "https://github.com/patricksnape"),
+    ("ai ai-google-scholar-square ai-3x",
+     "https://scholar.google.com/citations?hl=en&user=L-sUZmUAAAAJ"),
+    ("fa fa-twitter fa-3x", "https://twitter.com/berecursive"),
+    ("fa fa-linkedin fa-3x", "https://www.linkedin.com/in/patrick-snape/"),
 )
 
 DEFAULT_PAGINATION = 10
 
 RELATIVE_URLS = True
 
-PLUGIN_PATHS = [u'plugins']
-PLUGINS = [u'gravatar']
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["gravatar"]
 
-DISQUS_SITENAME = u'patricksnape'
+PATH = "content"
+PROFILE_IMAGE_URL = "theme/img/avatar.jpg"
+STATIC_PATHS = ["publications"]
 
-PATH = u'content'
-PROFILE_IMAGE_URL = u'theme/img/avatar.jpg'
-STATIC_PATHS = [u'publications']
-
-ARTICLE_URL = u'{date:%Y}/{slug}/'
-ARTICLE_SAVE_AS = u'{date:%Y}/{slug}/index.html'
+ARTICLE_URL = "{date:%Y}/{slug}/"
+ARTICLE_SAVE_AS = "{date:%Y}/{slug}/index.html"
